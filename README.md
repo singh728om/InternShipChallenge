@@ -8,7 +8,7 @@ Open Linux Bash terminal &
 make CFLAGS=-O3 permute && time ./permute 5 >/dev/null 
 #about 20s on my PC
 
-# Solution: We can use bash command for file reading and then we need to give proper instruction in bin file with help of gcc in linux for C program execution and you will get desired outout put.
+ Solution: We can use bash command for file reading and then we need to give proper instruction using chmode ooption in bin file after that with help of gcc in linux for C program execution we can run out program which was saved in any directory in program.c format,you will get desired output.
 
 # FaceByMask:
 
